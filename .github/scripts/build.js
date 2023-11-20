@@ -1,4 +1,4 @@
-const fs = require('fs');
+const f = require('fs');
 const data = require('../../data.json');
 
 const TPL_FILE = './.github/tpl.md';
